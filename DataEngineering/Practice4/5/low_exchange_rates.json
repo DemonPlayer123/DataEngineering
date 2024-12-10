@@ -1,0 +1,1742 @@
+[
+    {
+        "country_name": "Kuwait",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.305
+    },
+    {
+        "country_name": "Kuwait",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.305
+    },
+    {
+        "country_name": "Kuwait",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.305
+    },
+    {
+        "country_name": "Kuwait",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.305
+    },
+    {
+        "country_name": "Kuwait",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.305
+    },
+    {
+        "country_name": "Kuwait",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.305
+    },
+    {
+        "country_name": "Bahrain",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.377
+    },
+    {
+        "country_name": "Bahrain",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.377
+    },
+    {
+        "country_name": "Bahrain",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.377
+    },
+    {
+        "country_name": "Bahrain",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.377
+    },
+    {
+        "country_name": "Bahrain",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.377
+    },
+    {
+        "country_name": "Bahrain",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.377
+    },
+    {
+        "country_name": "Oman",
+        "currency_description": "Rial",
+        "exchange_rate": 0.384
+    },
+    {
+        "country_name": "Oman",
+        "currency_description": "Rial",
+        "exchange_rate": 0.384
+    },
+    {
+        "country_name": "Oman",
+        "currency_description": "Rial",
+        "exchange_rate": 0.384
+    },
+    {
+        "country_name": "Oman",
+        "currency_description": "Rial",
+        "exchange_rate": 0.384
+    },
+    {
+        "country_name": "Oman",
+        "currency_description": "Rial",
+        "exchange_rate": 0.384
+    },
+    {
+        "country_name": "Oman",
+        "currency_description": "Rial",
+        "exchange_rate": 0.384
+    },
+    {
+        "country_name": "Jordan",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.708
+    },
+    {
+        "country_name": "Jordan",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.708
+    },
+    {
+        "country_name": "Jordan",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.708
+    },
+    {
+        "country_name": "Jordan",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.708
+    },
+    {
+        "country_name": "Jordan",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.708
+    },
+    {
+        "country_name": "Jordan",
+        "currency_description": "Dinar",
+        "exchange_rate": 0.708
+    },
+    {
+        "country_name": "United Kingdom",
+        "currency_description": "Pound",
+        "exchange_rate": 0.745
+    },
+    {
+        "country_name": "United Kingdom",
+        "currency_description": "Pound",
+        "exchange_rate": 0.745
+    },
+    {
+        "country_name": "United Kingdom",
+        "currency_description": "Pound",
+        "exchange_rate": 0.745
+    },
+    {
+        "country_name": "United Kingdom",
+        "currency_description": "Pound",
+        "exchange_rate": 0.745
+    },
+    {
+        "country_name": "United Kingdom",
+        "currency_description": "Pound",
+        "exchange_rate": 0.745
+    },
+    {
+        "country_name": "United Kingdom",
+        "currency_description": "Pound",
+        "exchange_rate": 0.745
+    },
+    {
+        "country_name": "Cayman Islands",
+        "currency_description": "Dollar",
+        "exchange_rate": 0.82
+    },
+    {
+        "country_name": "Cayman Islands",
+        "currency_description": "Dollar",
+        "exchange_rate": 0.82
+    },
+    {
+        "country_name": "Cayman Islands",
+        "currency_description": "Dollar",
+        "exchange_rate": 0.82
+    },
+    {
+        "country_name": "Cayman Islands",
+        "currency_description": "Dollar",
+        "exchange_rate": 0.82
+    },
+    {
+        "country_name": "Cayman Islands",
+        "currency_description": "Dollar",
+        "exchange_rate": 0.82
+    },
+    {
+        "country_name": "Cayman Islands",
+        "currency_description": "Dollar",
+        "exchange_rate": 0.82
+    },
+    {
+        "country_name": "Switzerland",
+        "currency_description": "Franc",
+        "exchange_rate": 0.843
+    },
+    {
+        "country_name": "Switzerland",
+        "currency_description": "Franc",
+        "exchange_rate": 0.843
+    },
+    {
+        "country_name": "Switzerland",
+        "currency_description": "Franc",
+        "exchange_rate": 0.843
+    },
+    {
+        "country_name": "Switzerland",
+        "currency_description": "Franc",
+        "exchange_rate": 0.843
+    },
+    {
+        "country_name": "Switzerland",
+        "currency_description": "Franc",
+        "exchange_rate": 0.843
+    },
+    {
+        "country_name": "Switzerland",
+        "currency_description": "Franc",
+        "exchange_rate": 0.843
+    },
+    {
+        "country_name": "Euro Zone",
+        "currency_description": "Euro",
+        "exchange_rate": 0.893
+    },
+    {
+        "country_name": "Euro Zone",
+        "currency_description": "Euro",
+        "exchange_rate": 0.893
+    },
+    {
+        "country_name": "Euro Zone",
+        "currency_description": "Euro",
+        "exchange_rate": 0.893
+    },
+    {
+        "country_name": "Euro Zone",
+        "currency_description": "Euro",
+        "exchange_rate": 0.893
+    },
+    {
+        "country_name": "Euro Zone",
+        "currency_description": "Euro",
+        "exchange_rate": 0.893
+    },
+    {
+        "country_name": "Euro Zone",
+        "currency_description": "Euro",
+        "exchange_rate": 0.893
+    },
+    {
+        "country_name": "Bahamas",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Bermuda",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Cuba",
+        "currency_description": "Chavito",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Ecuador",
+        "currency_description": "Dolares",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "El Salvador",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Marshall Islands",
+        "currency_description": "U.S. Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Micronesia",
+        "currency_description": "U.S. Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Palau",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Panama",
+        "currency_description": "Dolares",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Timor",
+        "currency_description": "Leste-Dili",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Bahamas",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Bermuda",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Cuba",
+        "currency_description": "Chavito",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Ecuador",
+        "currency_description": "Dolares",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "El Salvador",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Marshall Islands",
+        "currency_description": "U.S. Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Micronesia",
+        "currency_description": "U.S. Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Palau",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Panama",
+        "currency_description": "Dolares",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Timor",
+        "currency_description": "Leste-Dili",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Bahamas",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Bermuda",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Cuba",
+        "currency_description": "Chavito",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Ecuador",
+        "currency_description": "Dolares",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "El Salvador",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Marshall Islands",
+        "currency_description": "U.S. Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Micronesia",
+        "currency_description": "U.S. Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Palau",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Panama",
+        "currency_description": "Dolares",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Timor",
+        "currency_description": "Leste-Dili",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Bahamas",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Bermuda",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Cuba",
+        "currency_description": "Chavito",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Ecuador",
+        "currency_description": "Dolares",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "El Salvador",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Marshall Islands",
+        "currency_description": "U.S. Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Micronesia",
+        "currency_description": "U.S. Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Palau",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Panama",
+        "currency_description": "Dolares",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Timor",
+        "currency_description": "Leste-Dili",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Bahamas",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Bermuda",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Cuba",
+        "currency_description": "Chavito",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Ecuador",
+        "currency_description": "Dolares",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "El Salvador",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Marshall Islands",
+        "currency_description": "U.S. Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Micronesia",
+        "currency_description": "U.S. Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Palau",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Panama",
+        "currency_description": "Dolares",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Timor",
+        "currency_description": "Leste-Dili",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Bahamas",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Bermuda",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Cuba",
+        "currency_description": "Chavito",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Ecuador",
+        "currency_description": "Dolares",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "El Salvador",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Marshall Islands",
+        "currency_description": "U.S. Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Micronesia",
+        "currency_description": "U.S. Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Palau",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Panama",
+        "currency_description": "Dolares",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Timor",
+        "currency_description": "Leste-Dili",
+        "exchange_rate": 1.0
+    },
+    {
+        "country_name": "Brunei",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.281
+    },
+    {
+        "country_name": "Singapore",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.281
+    },
+    {
+        "country_name": "Brunei",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.281
+    },
+    {
+        "country_name": "Singapore",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.281
+    },
+    {
+        "country_name": "Brunei",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.281
+    },
+    {
+        "country_name": "Singapore",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.281
+    },
+    {
+        "country_name": "Brunei",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.281
+    },
+    {
+        "country_name": "Singapore",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.281
+    },
+    {
+        "country_name": "Brunei",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.281
+    },
+    {
+        "country_name": "Singapore",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.281
+    },
+    {
+        "country_name": "Brunei",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.281
+    },
+    {
+        "country_name": "Singapore",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.281
+    },
+    {
+        "country_name": "Canada",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.352
+    },
+    {
+        "country_name": "Canada",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.352
+    },
+    {
+        "country_name": "Canada",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.352
+    },
+    {
+        "country_name": "Canada",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.352
+    },
+    {
+        "country_name": "Canada",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.352
+    },
+    {
+        "country_name": "Canada",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.352
+    },
+    {
+        "country_name": "Australia",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.445
+    },
+    {
+        "country_name": "Australia",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.445
+    },
+    {
+        "country_name": "Australia",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.445
+    },
+    {
+        "country_name": "Australia",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.445
+    },
+    {
+        "country_name": "Australia",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.445
+    },
+    {
+        "country_name": "Australia",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.445
+    },
+    {
+        "country_name": "New Zealand",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.574
+    },
+    {
+        "country_name": "New Zealand",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.574
+    },
+    {
+        "country_name": "New Zealand",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.574
+    },
+    {
+        "country_name": "New Zealand",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.574
+    },
+    {
+        "country_name": "New Zealand",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.574
+    },
+    {
+        "country_name": "New Zealand",
+        "currency_description": "Dollar",
+        "exchange_rate": 1.574
+    },
+    {
+        "country_name": "Azerbaijan",
+        "currency_description": "Manat",
+        "exchange_rate": 1.7
+    },
+    {
+        "country_name": "Azerbaijan",
+        "currency_description": "Manat",
+        "exchange_rate": 1.7
+    },
+    {
+        "country_name": "Azerbaijan",
+        "currency_description": "Manat",
+        "exchange_rate": 1.7
+    },
+    {
+        "country_name": "Azerbaijan",
+        "currency_description": "Manat",
+        "exchange_rate": 1.7
+    },
+    {
+        "country_name": "Azerbaijan",
+        "currency_description": "Manat",
+        "exchange_rate": 1.7
+    },
+    {
+        "country_name": "Azerbaijan",
+        "currency_description": "Manat",
+        "exchange_rate": 1.7
+    },
+    {
+        "country_name": "Bosnia",
+        "currency_description": "Marka",
+        "exchange_rate": 1.746
+    },
+    {
+        "country_name": "Bulgaria",
+        "currency_description": "Lev New",
+        "exchange_rate": 1.746
+    },
+    {
+        "country_name": "Bosnia",
+        "currency_description": "Marka",
+        "exchange_rate": 1.746
+    },
+    {
+        "country_name": "Bulgaria",
+        "currency_description": "Lev New",
+        "exchange_rate": 1.746
+    },
+    {
+        "country_name": "Bosnia",
+        "currency_description": "Marka",
+        "exchange_rate": 1.746
+    },
+    {
+        "country_name": "Bulgaria",
+        "currency_description": "Lev New",
+        "exchange_rate": 1.746
+    },
+    {
+        "country_name": "Bosnia",
+        "currency_description": "Marka",
+        "exchange_rate": 1.746
+    },
+    {
+        "country_name": "Bulgaria",
+        "currency_description": "Lev New",
+        "exchange_rate": 1.746
+    },
+    {
+        "country_name": "Bosnia",
+        "currency_description": "Marka",
+        "exchange_rate": 1.746
+    },
+    {
+        "country_name": "Bulgaria",
+        "currency_description": "Lev New",
+        "exchange_rate": 1.746
+    },
+    {
+        "country_name": "Bosnia",
+        "currency_description": "Marka",
+        "exchange_rate": 1.746
+    },
+    {
+        "country_name": "Bulgaria",
+        "currency_description": "Lev New",
+        "exchange_rate": 1.746
+    },
+    {
+        "country_name": "Netherlands Antilles",
+        "currency_description": "Guilder",
+        "exchange_rate": 1.78
+    },
+    {
+        "country_name": "Netherlands Antilles",
+        "currency_description": "Guilder",
+        "exchange_rate": 1.78
+    },
+    {
+        "country_name": "Netherlands Antilles",
+        "currency_description": "Guilder",
+        "exchange_rate": 1.78
+    },
+    {
+        "country_name": "Netherlands Antilles",
+        "currency_description": "Guilder",
+        "exchange_rate": 1.78
+    },
+    {
+        "country_name": "Netherlands Antilles",
+        "currency_description": "Guilder",
+        "exchange_rate": 1.78
+    },
+    {
+        "country_name": "Netherlands Antilles",
+        "currency_description": "Guilder",
+        "exchange_rate": 1.78
+    },
+    {
+        "country_name": "Belize",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.0
+    },
+    {
+        "country_name": "Belize",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.0
+    },
+    {
+        "country_name": "Belize",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.0
+    },
+    {
+        "country_name": "Belize",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.0
+    },
+    {
+        "country_name": "Belize",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.0
+    },
+    {
+        "country_name": "Belize",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.0
+    },
+    {
+        "country_name": "Barbados",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.02
+    },
+    {
+        "country_name": "Barbados",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.02
+    },
+    {
+        "country_name": "Barbados",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.02
+    },
+    {
+        "country_name": "Barbados",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.02
+    },
+    {
+        "country_name": "Barbados",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.02
+    },
+    {
+        "country_name": "Barbados",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.02
+    },
+    {
+        "country_name": "Fiji",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.149
+    },
+    {
+        "country_name": "Fiji",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.149
+    },
+    {
+        "country_name": "Fiji",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.149
+    },
+    {
+        "country_name": "Fiji",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.149
+    },
+    {
+        "country_name": "Fiji",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.149
+    },
+    {
+        "country_name": "Fiji",
+        "currency_description": "Dollar",
+        "exchange_rate": 2.149
+    },
+    {
+        "country_name": "Tonga",
+        "currency_description": "Pa'anga",
+        "exchange_rate": 2.237
+    },
+    {
+        "country_name": "Tonga",
+        "currency_description": "Pa'anga",
+        "exchange_rate": 2.237
+    },
+    {
+        "country_name": "Tonga",
+        "currency_description": "Pa'anga",
+        "exchange_rate": 2.237
+    },
+    {
+        "country_name": "Tonga",
+        "currency_description": "Pa'anga",
+        "exchange_rate": 2.237
+    },
+    {
+        "country_name": "Tonga",
+        "currency_description": "Pa'anga",
+        "exchange_rate": 2.237
+    },
+    {
+        "country_name": "Tonga",
+        "currency_description": "Pa'anga",
+        "exchange_rate": 2.237
+    },
+    {
+        "country_name": "Western Samoa",
+        "currency_description": "Tala",
+        "exchange_rate": 2.653
+    },
+    {
+        "country_name": "Western Samoa",
+        "currency_description": "Tala",
+        "exchange_rate": 2.653
+    },
+    {
+        "country_name": "Western Samoa",
+        "currency_description": "Tala",
+        "exchange_rate": 2.653
+    },
+    {
+        "country_name": "Western Samoa",
+        "currency_description": "Tala",
+        "exchange_rate": 2.653
+    },
+    {
+        "country_name": "Western Samoa",
+        "currency_description": "Tala",
+        "exchange_rate": 2.653
+    },
+    {
+        "country_name": "Western Samoa",
+        "currency_description": "Tala",
+        "exchange_rate": 2.653
+    },
+    {
+        "country_name": "Antigua & Barbuda",
+        "currency_description": "E. Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "Grenada",
+        "currency_description": "E.Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "St. Lucia",
+        "currency_description": "E. Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "Antigua & Barbuda",
+        "currency_description": "E. Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "Grenada",
+        "currency_description": "E.Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "St. Lucia",
+        "currency_description": "E. Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "Antigua & Barbuda",
+        "currency_description": "E. Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "Grenada",
+        "currency_description": "E.Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "St. Lucia",
+        "currency_description": "E. Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "Antigua & Barbuda",
+        "currency_description": "E. Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "Grenada",
+        "currency_description": "E.Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "St. Lucia",
+        "currency_description": "E. Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "Antigua & Barbuda",
+        "currency_description": "E. Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "Grenada",
+        "currency_description": "E.Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "St. Lucia",
+        "currency_description": "E. Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "Antigua & Barbuda",
+        "currency_description": "E. Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "Grenada",
+        "currency_description": "E.Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "St. Lucia",
+        "currency_description": "E. Caribbean Dollar",
+        "exchange_rate": 2.7
+    },
+    {
+        "country_name": "Georgia",
+        "currency_description": "Lari",
+        "exchange_rate": 2.705
+    },
+    {
+        "country_name": "Georgia",
+        "currency_description": "Lari",
+        "exchange_rate": 2.705
+    },
+    {
+        "country_name": "Georgia",
+        "currency_description": "Lari",
+        "exchange_rate": 2.705
+    },
+    {
+        "country_name": "Georgia",
+        "currency_description": "Lari",
+        "exchange_rate": 2.705
+    },
+    {
+        "country_name": "Georgia",
+        "currency_description": "Lari",
+        "exchange_rate": 2.705
+    },
+    {
+        "country_name": "Georgia",
+        "currency_description": "Lari",
+        "exchange_rate": 2.705
+    },
+    {
+        "country_name": "Tunisia",
+        "currency_description": "Dinar",
+        "exchange_rate": 3.015
+    },
+    {
+        "country_name": "Tunisia",
+        "currency_description": "Dinar",
+        "exchange_rate": 3.015
+    },
+    {
+        "country_name": "Tunisia",
+        "currency_description": "Dinar",
+        "exchange_rate": 3.015
+    },
+    {
+        "country_name": "Tunisia",
+        "currency_description": "Dinar",
+        "exchange_rate": 3.015
+    },
+    {
+        "country_name": "Tunisia",
+        "currency_description": "Dinar",
+        "exchange_rate": 3.015
+    },
+    {
+        "country_name": "Tunisia",
+        "currency_description": "Dinar",
+        "exchange_rate": 3.015
+    },
+    {
+        "country_name": "Belarus",
+        "currency_description": "New Ruble",
+        "exchange_rate": 3.21
+    },
+    {
+        "country_name": "Belarus",
+        "currency_description": "New Ruble",
+        "exchange_rate": 3.21
+    },
+    {
+        "country_name": "Belarus",
+        "currency_description": "New Ruble",
+        "exchange_rate": 3.21
+    },
+    {
+        "country_name": "Belarus",
+        "currency_description": "New Ruble",
+        "exchange_rate": 3.21
+    },
+    {
+        "country_name": "Belarus",
+        "currency_description": "New Ruble",
+        "exchange_rate": 3.21
+    },
+    {
+        "country_name": "Belarus",
+        "currency_description": "New Ruble",
+        "exchange_rate": 3.21
+    },
+    {
+        "country_name": "Turkmenistan",
+        "currency_description": "New Manat",
+        "exchange_rate": 3.491
+    },
+    {
+        "country_name": "Turkmenistan",
+        "currency_description": "New Manat",
+        "exchange_rate": 3.491
+    },
+    {
+        "country_name": "Turkmenistan",
+        "currency_description": "New Manat",
+        "exchange_rate": 3.491
+    },
+    {
+        "country_name": "Turkmenistan",
+        "currency_description": "New Manat",
+        "exchange_rate": 3.491
+    },
+    {
+        "country_name": "Turkmenistan",
+        "currency_description": "New Manat",
+        "exchange_rate": 3.491
+    },
+    {
+        "country_name": "Turkmenistan",
+        "currency_description": "New Manat",
+        "exchange_rate": 3.491
+    },
+    {
+        "country_name": "Qatar",
+        "currency_description": "Riyal",
+        "exchange_rate": 3.644
+    },
+    {
+        "country_name": "Qatar",
+        "currency_description": "Riyal",
+        "exchange_rate": 3.644
+    },
+    {
+        "country_name": "Qatar",
+        "currency_description": "Riyal",
+        "exchange_rate": 3.644
+    },
+    {
+        "country_name": "Qatar",
+        "currency_description": "Riyal",
+        "exchange_rate": 3.644
+    },
+    {
+        "country_name": "Qatar",
+        "currency_description": "Riyal",
+        "exchange_rate": 3.644
+    },
+    {
+        "country_name": "Qatar",
+        "currency_description": "Riyal",
+        "exchange_rate": 3.644
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "currency_description": "Dirham",
+        "exchange_rate": 3.673
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "currency_description": "Dirham",
+        "exchange_rate": 3.673
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "currency_description": "Dirham",
+        "exchange_rate": 3.673
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "currency_description": "Dirham",
+        "exchange_rate": 3.673
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "currency_description": "Dirham",
+        "exchange_rate": 3.673
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "currency_description": "Dirham",
+        "exchange_rate": 3.673
+    },
+    {
+        "country_name": "Peru",
+        "currency_description": "Sol",
+        "exchange_rate": 3.698
+    },
+    {
+        "country_name": "Peru",
+        "currency_description": "Sol",
+        "exchange_rate": 3.698
+    },
+    {
+        "country_name": "Peru",
+        "currency_description": "Sol",
+        "exchange_rate": 3.698
+    },
+    {
+        "country_name": "Peru",
+        "currency_description": "Sol",
+        "exchange_rate": 3.698
+    },
+    {
+        "country_name": "Peru",
+        "currency_description": "Sol",
+        "exchange_rate": 3.698
+    },
+    {
+        "country_name": "Peru",
+        "currency_description": "Sol",
+        "exchange_rate": 3.698
+    },
+    {
+        "country_name": "Israel",
+        "currency_description": "Shekel",
+        "exchange_rate": 3.707
+    },
+    {
+        "country_name": "Israel",
+        "currency_description": "Shekel",
+        "exchange_rate": 3.707
+    },
+    {
+        "country_name": "Israel",
+        "currency_description": "Shekel",
+        "exchange_rate": 3.707
+    },
+    {
+        "country_name": "Israel",
+        "currency_description": "Shekel",
+        "exchange_rate": 3.707
+    },
+    {
+        "country_name": "Israel",
+        "currency_description": "Shekel",
+        "exchange_rate": 3.707
+    },
+    {
+        "country_name": "Israel",
+        "currency_description": "Shekel",
+        "exchange_rate": 3.707
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "currency_description": "Riyal",
+        "exchange_rate": 3.75
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "currency_description": "Riyal",
+        "exchange_rate": 3.75
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "currency_description": "Riyal",
+        "exchange_rate": 3.75
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "currency_description": "Riyal",
+        "exchange_rate": 3.75
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "currency_description": "Riyal",
+        "exchange_rate": 3.75
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "currency_description": "Riyal",
+        "exchange_rate": 3.75
+    },
+    {
+        "country_name": "Poland",
+        "currency_description": "Zloty",
+        "exchange_rate": 3.821
+    },
+    {
+        "country_name": "Poland",
+        "currency_description": "Zloty",
+        "exchange_rate": 3.821
+    },
+    {
+        "country_name": "Poland",
+        "currency_description": "Zloty",
+        "exchange_rate": 3.821
+    },
+    {
+        "country_name": "Poland",
+        "currency_description": "Zloty",
+        "exchange_rate": 3.821
+    },
+    {
+        "country_name": "Poland",
+        "currency_description": "Zloty",
+        "exchange_rate": 3.821
+    },
+    {
+        "country_name": "Poland",
+        "currency_description": "Zloty",
+        "exchange_rate": 3.821
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "currency_description": "Kina",
+        "exchange_rate": 3.919
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "currency_description": "Kina",
+        "exchange_rate": 3.919
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "currency_description": "Kina",
+        "exchange_rate": 3.919
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "currency_description": "Kina",
+        "exchange_rate": 3.919
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "currency_description": "Kina",
+        "exchange_rate": 3.919
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "currency_description": "Kina",
+        "exchange_rate": 3.919
+    },
+    {
+        "country_name": "Malaysia",
+        "currency_description": "Ringgit",
+        "exchange_rate": 4.121
+    },
+    {
+        "country_name": "Malaysia",
+        "currency_description": "Ringgit",
+        "exchange_rate": 4.121
+    },
+    {
+        "country_name": "Malaysia",
+        "currency_description": "Ringgit",
+        "exchange_rate": 4.121
+    },
+    {
+        "country_name": "Malaysia",
+        "currency_description": "Ringgit",
+        "exchange_rate": 4.121
+    },
+    {
+        "country_name": "Malaysia",
+        "currency_description": "Ringgit",
+        "exchange_rate": 4.121
+    },
+    {
+        "country_name": "Malaysia",
+        "currency_description": "Ringgit",
+        "exchange_rate": 4.121
+    },
+    {
+        "country_name": "Romania",
+        "currency_description": "New Leu",
+        "exchange_rate": 4.441
+    },
+    {
+        "country_name": "Romania",
+        "currency_description": "New Leu",
+        "exchange_rate": 4.441
+    },
+    {
+        "country_name": "Romania",
+        "currency_description": "New Leu",
+        "exchange_rate": 4.441
+    },
+    {
+        "country_name": "Romania",
+        "currency_description": "New Leu",
+        "exchange_rate": 4.441
+    },
+    {
+        "country_name": "Romania",
+        "currency_description": "New Leu",
+        "exchange_rate": 4.441
+    },
+    {
+        "country_name": "Romania",
+        "currency_description": "New Leu",
+        "exchange_rate": 4.441
+    },
+    {
+        "country_name": "Libya",
+        "currency_description": "Dinar",
+        "exchange_rate": 4.732
+    },
+    {
+        "country_name": "Libya",
+        "currency_description": "Dinar",
+        "exchange_rate": 4.732
+    },
+    {
+        "country_name": "Libya",
+        "currency_description": "Dinar",
+        "exchange_rate": 4.732
+    },
+    {
+        "country_name": "Libya",
+        "currency_description": "Dinar",
+        "exchange_rate": 4.732
+    },
+    {
+        "country_name": "Libya",
+        "currency_description": "Dinar",
+        "exchange_rate": 4.732
+    },
+    {
+        "country_name": "Libya",
+        "currency_description": "Dinar",
+        "exchange_rate": 4.732
+    },
+    {
+        "country_name": "Brazil",
+        "currency_description": "Real",
+        "exchange_rate": 5.434
+    },
+    {
+        "country_name": "Brazil",
+        "currency_description": "Real",
+        "exchange_rate": 5.434
+    },
+    {
+        "country_name": "Brazil",
+        "currency_description": "Real",
+        "exchange_rate": 5.434
+    },
+    {
+        "country_name": "Brazil",
+        "currency_description": "Real",
+        "exchange_rate": 5.434
+    },
+    {
+        "country_name": "Brazil",
+        "currency_description": "Real",
+        "exchange_rate": 5.434
+    },
+    {
+        "country_name": "Brazil",
+        "currency_description": "Real",
+        "exchange_rate": 5.434
+    },
+    {
+        "country_name": "Denmark",
+        "currency_description": "Krone",
+        "exchange_rate": 6.658
+    },
+    {
+        "country_name": "Denmark",
+        "currency_description": "Krone",
+        "exchange_rate": 6.658
+    },
+    {
+        "country_name": "Denmark",
+        "currency_description": "Krone",
+        "exchange_rate": 6.658
+    },
+    {
+        "country_name": "Denmark",
+        "currency_description": "Krone",
+        "exchange_rate": 6.658
+    },
+    {
+        "country_name": "Denmark",
+        "currency_description": "Krone",
+        "exchange_rate": 6.658
+    },
+    {
+        "country_name": "Denmark",
+        "currency_description": "Krone",
+        "exchange_rate": 6.658
+    },
+    {
+        "country_name": "Trinidad & Tobago",
+        "currency_description": "Dollar",
+        "exchange_rate": 6.769
+    },
+    {
+        "country_name": "Trinidad & Tobago",
+        "currency_description": "Dollar",
+        "exchange_rate": 6.769
+    },
+    {
+        "country_name": "Trinidad & Tobago",
+        "currency_description": "Dollar",
+        "exchange_rate": 6.769
+    },
+    {
+        "country_name": "Trinidad & Tobago",
+        "currency_description": "Dollar",
+        "exchange_rate": 6.769
+    },
+    {
+        "country_name": "Trinidad & Tobago",
+        "currency_description": "Dollar",
+        "exchange_rate": 6.769
+    },
+    {
+        "country_name": "Trinidad & Tobago",
+        "currency_description": "Dollar",
+        "exchange_rate": 6.769
+    },
+    {
+        "country_name": "Bolivia",
+        "currency_description": "Boliviano",
+        "exchange_rate": 6.86
+    },
+    {
+        "country_name": "Bolivia",
+        "currency_description": "Boliviano",
+        "exchange_rate": 6.86
+    },
+    {
+        "country_name": "Bolivia",
+        "currency_description": "Boliviano",
+        "exchange_rate": 6.86
+    },
+    {
+        "country_name": "Bolivia",
+        "currency_description": "Boliviano",
+        "exchange_rate": 6.86
+    },
+    {
+        "country_name": "Bolivia",
+        "currency_description": "Boliviano",
+        "exchange_rate": 6.86
+    },
+    {
+        "country_name": "Bolivia",
+        "currency_description": "Boliviano",
+        "exchange_rate": 6.86
+    },
+    {
+        "country_name": "China",
+        "currency_description": "Renminbi",
+        "exchange_rate": 7.012
+    },
+    {
+        "country_name": "China",
+        "currency_description": "Renminbi",
+        "exchange_rate": 7.012
+    },
+    {
+        "country_name": "China",
+        "currency_description": "Renminbi",
+        "exchange_rate": 7.012
+    },
+    {
+        "country_name": "China",
+        "currency_description": "Renminbi",
+        "exchange_rate": 7.012
+    },
+    {
+        "country_name": "China",
+        "currency_description": "Renminbi",
+        "exchange_rate": 7.012
+    },
+    {
+        "country_name": "China",
+        "currency_description": "Renminbi",
+        "exchange_rate": 7.012
+    },
+    {
+        "country_name": "Guatemala",
+        "currency_description": "Quentzal",
+        "exchange_rate": 7.727
+    },
+    {
+        "country_name": "Guatemala",
+        "currency_description": "Quentzal",
+        "exchange_rate": 7.727
+    },
+    {
+        "country_name": "Guatemala",
+        "currency_description": "Quentzal",
+        "exchange_rate": 7.727
+    },
+    {
+        "country_name": "Guatemala",
+        "currency_description": "Quentzal",
+        "exchange_rate": 7.727
+    },
+    {
+        "country_name": "Guatemala",
+        "currency_description": "Quentzal",
+        "exchange_rate": 7.727
+    },
+    {
+        "country_name": "Guatemala",
+        "currency_description": "Quentzal",
+        "exchange_rate": 7.727
+    },
+    {
+        "country_name": "Hong Kong",
+        "currency_description": "Dollar",
+        "exchange_rate": 7.767
+    },
+    {
+        "country_name": "Hong Kong",
+        "currency_description": "Dollar",
+        "exchange_rate": 7.767
+    },
+    {
+        "country_name": "Hong Kong",
+        "currency_description": "Dollar",
+        "exchange_rate": 7.767
+    },
+    {
+        "country_name": "Hong Kong",
+        "currency_description": "Dollar",
+        "exchange_rate": 7.767
+    },
+    {
+        "country_name": "Hong Kong",
+        "currency_description": "Dollar",
+        "exchange_rate": 7.767
+    },
+    {
+        "country_name": "Hong Kong",
+        "currency_description": "Dollar",
+        "exchange_rate": 7.767
+    },
+    {
+        "country_name": "Solomon Islands",
+        "currency_description": "Dollar",
+        "exchange_rate": 8.065
+    },
+    {
+        "country_name": "Solomon Islands",
+        "currency_description": "Dollar",
+        "exchange_rate": 8.065
+    },
+    {
+        "country_name": "Solomon Islands",
+        "currency_description": "Dollar",
+        "exchange_rate": 8.065
+    },
+    {
+        "country_name": "Solomon Islands",
+        "currency_description": "Dollar",
+        "exchange_rate": 8.065
+    },
+    {
+        "country_name": "Solomon Islands",
+        "currency_description": "Dollar",
+        "exchange_rate": 8.065
+    },
+    {
+        "country_name": "Solomon Islands",
+        "currency_description": "Dollar",
+        "exchange_rate": 8.065
+    },
+    {
+        "country_name": "Morocco",
+        "currency_description": "Dirham",
+        "exchange_rate": 9.697
+    },
+    {
+        "country_name": "Morocco",
+        "currency_description": "Dirham",
+        "exchange_rate": 9.697
+    },
+    {
+        "country_name": "Morocco",
+        "currency_description": "Dirham",
+        "exchange_rate": 9.697
+    },
+    {
+        "country_name": "Morocco",
+        "currency_description": "Dirham",
+        "exchange_rate": 9.697
+    },
+    {
+        "country_name": "Morocco",
+        "currency_description": "Dirham",
+        "exchange_rate": 9.697
+    },
+    {
+        "country_name": "Morocco",
+        "currency_description": "Dirham",
+        "exchange_rate": 9.697
+    }
+]

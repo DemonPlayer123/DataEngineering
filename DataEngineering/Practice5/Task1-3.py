@@ -59,9 +59,9 @@ def read_text(file):
     return items
 
 collection = connect_db()
-#collection.insert_many(read_text("task_3_item.text"))
-#collection.insert_many(read_pkl("task_2_item.pkl"))
-#collection.insert_many(read_csv("task_1_item.csv"))
+collection.insert_many(read_text("task_3_item.text"))
+collection.insert_many(read_pkl("task_2_item.pkl"))
+collection.insert_many(read_csv("task_1_item.csv"))
 
 def save_to_file(data, filename):
     def convert_objectid(obj):

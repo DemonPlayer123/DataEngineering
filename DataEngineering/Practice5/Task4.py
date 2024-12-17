@@ -29,8 +29,8 @@ def read_json(path):
         return json.load(f)
 
 collection = connect_db()
-#collection.insert_many(read_csv("dataset/RprtRateXchg_20240701_20240930.csv"))
-#collection.insert_many(read_json("dataset/RprtRateXchg_20240701_20240930.json"))
+collection.insert_many(read_csv("dataset/RprtRateXchg_20240701_20240930.csv"))
+collection.insert_many(read_json("dataset/RprtRateXchg_20240701_20240930.json"))
 
 def save_to_file(data, filename):
     def convert_objectid(obj):

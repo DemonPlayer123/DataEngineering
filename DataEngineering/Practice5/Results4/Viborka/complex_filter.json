@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "6760891a13cc9ad16c36aebb",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Bahrain-Dinar",
+        "Exchange Rate": 10.376999999999999,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aec5",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Brazil-Real",
+        "Exchange Rate": 10.434000000000001,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aec1",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Bermuda-Dollar",
+        "Exchange Rate": 11.0,
+        "Effective Date": "2024-09-30"
+    }
+]

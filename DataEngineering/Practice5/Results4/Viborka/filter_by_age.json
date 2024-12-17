@@ -1,0 +1,107 @@
+[
+    {
+        "_id": "6760891a13cc9ad16c36af5a",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Zimbabwe-Gold",
+        "Exchange Rate": 27.246,
+        "Effective Date": "2024-10-31"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af59",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Zambia-New Kwacha",
+        "Exchange Rate": 26.45,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aef2",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Honduras-Lempira",
+        "Exchange Rate": 24.808,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aed9",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Cuba-Peso",
+        "Exchange Rate": 24.0,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af5b",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Zimbabwe-Gold",
+        "Exchange Rate": 23.639,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af32",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Sierra Leone-Leone",
+        "Exchange Rate": 23.5,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aeda",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Czech Republic-Koruna",
+        "Exchange Rate": 21.912,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af2d",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Sao Tome & Principe-New Dobras",
+        "Exchange Rate": 21.887,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af33",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Sierra Leone-Old Leone",
+        "Exchange Rate": 21.4,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af10",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Mexico-Peso",
+        "Exchange Rate": 19.655,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af12",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Moldova-LEU",
+        "Exchange Rate": 17.3,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af05",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Lesotho-Maloti",
+        "Exchange Rate": 17.16,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aee4",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Eswatini-Lilangeni",
+        "Exchange Rate": 17.16,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af37",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "South Africa-Rand",
+        "Exchange Rate": 17.16,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af17",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Nambia-Dollar",
+        "Exchange Rate": 17.16,
+        "Effective Date": "2024-09-30"
+    }
+]

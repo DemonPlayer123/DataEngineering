@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "6760891a13cc9ad16c36af55",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Venezuela-Fuerte (OLD)",
+        "Exchange Rate": 248832.0,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af04",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Lebanon-Pound",
+        "Exchange Rate": 89500.0,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aef8",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Iran-Rial",
+        "Exchange Rate": 42000.0,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af56",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Vietnam-Dong",
+        "Exchange Rate": 24555.0,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af03",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Laos-Kip",
+        "Exchange Rate": 22031.0,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aef7",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Indonesia-Rupiah",
+        "Exchange Rate": 15125.0,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af51",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Uzbekistan-Som",
+        "Exchange Rate": 12651.84,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af40",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Syria-Pound",
+        "Exchange Rate": 12625.0,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aeee",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Guinea-Franc",
+        "Exchange Rate": 8586.0,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36af24",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Paraguay-Guarani",
+        "Exchange Rate": 7802.78,
+        "Effective Date": "2024-09-30"
+    }
+]

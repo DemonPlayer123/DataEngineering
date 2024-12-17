@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "6760891a13cc9ad16c36aeb8",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Australia-Dollar",
+        "Exchange Rate": 11.445,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aeb9",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Azerbaijan-Manat",
+        "Exchange Rate": 11.7,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aeb1",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Afghanistan-Afghani",
+        "Exchange Rate": 70.0,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aeb2",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Albania-Lek",
+        "Exchange Rate": 102.85,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aeb3",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Algeria-Dinar",
+        "Exchange Rate": 131.49,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aeb7",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Armenia-Dram",
+        "Exchange Rate": 390.0,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aeb4",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Angola-Kwanza",
+        "Exchange Rate": 949.825,
+        "Effective Date": "2024-09-30"
+    },
+    {
+        "_id": "6760891a13cc9ad16c36aeb6",
+        "Record Date": "2024-09-30",
+        "Country - Currency Description": "Argentina-Peso",
+        "Exchange Rate": 989.5,
+        "Effective Date": "2024-09-30"
+    }
+]

@@ -103,7 +103,7 @@ def opt_float(df):
 
 
 # steps 1-3
-file_name = "archive.zip"
+file_name = "archive.zip" #Ссылка на датасет: https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
 dataset = read_file(file_name)
 get_memory_stat_by_column(dataset)
 column_stat = get_memory_stat_by_column(dataset)

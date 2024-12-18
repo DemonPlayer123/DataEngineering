@@ -1,0 +1,143 @@
+{
+    "description": "Статистика по набору данных без применения оптимизаций",
+    "columns": [
+        {
+            "column_name": "Responsibilities",
+            "memory_abs": 370849,
+            "memory_per": 12.094,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Job Description",
+            "memory_abs": 369901,
+            "memory_per": 12.0631,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Company Profile",
+            "memory_abs": 363922,
+            "memory_per": 11.8681,
+            "dtype": "object"
+        },
+        {
+            "column_name": "skills",
+            "memory_abs": 296696,
+            "memory_per": 9.6757,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Benefits",
+            "memory_abs": 279218,
+            "memory_per": 9.1058,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Role",
+            "memory_abs": 110038,
+            "memory_per": 3.5885,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Job Title",
+            "memory_abs": 104702,
+            "memory_per": 3.4145,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Contact",
+            "memory_abs": 102833,
+            "memory_per": 3.3536,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Company",
+            "memory_abs": 102102,
+            "memory_per": 3.3297,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Contact Person",
+            "memory_abs": 98005,
+            "memory_per": 3.1961,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Experience",
+            "memory_abs": 97444,
+            "memory_per": 3.1778,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Job Portal",
+            "memory_abs": 93165,
+            "memory_per": 3.0383,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Job Posting Date",
+            "memory_abs": 93105,
+            "memory_per": 3.0363,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Salary Range",
+            "memory_abs": 92485,
+            "memory_per": 3.0161,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Country",
+            "memory_abs": 91941,
+            "memory_per": 2.9984,
+            "dtype": "object"
+        },
+        {
+            "column_name": "location",
+            "memory_abs": 91050,
+            "memory_per": 2.9693,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Work Type",
+            "memory_abs": 90265,
+            "memory_per": 2.9437,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Preference",
+            "memory_abs": 84688,
+            "memory_per": 2.7618,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Qualifications",
+            "memory_abs": 83478,
+            "memory_per": 2.7224,
+            "dtype": "object"
+        },
+        {
+            "column_name": "Job Id",
+            "memory_abs": 12624,
+            "memory_per": 0.4117,
+            "dtype": "int64"
+        },
+        {
+            "column_name": "latitude",
+            "memory_abs": 12624,
+            "memory_per": 0.4117,
+            "dtype": "float64"
+        },
+        {
+            "column_name": "longitude",
+            "memory_abs": 12624,
+            "memory_per": 0.4117,
+            "dtype": "float64"
+        },
+        {
+            "column_name": "Company Size",
+            "memory_abs": 12624,
+            "memory_per": 0.4117,
+            "dtype": "int64"
+        }
+    ]
+}

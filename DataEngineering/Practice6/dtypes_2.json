@@ -1,0 +1,1 @@
+{"Job Id": "uint64", "Salary Range": "category", "Country": "category", "latitude": "float32", "longitude": "float32", "Company Size": "uint32", "Job Posting Date": "category", "Preference": "category", "Contact": "object", "Work Type": "category"}
